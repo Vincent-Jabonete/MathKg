@@ -1,0 +1,139 @@
+*{
+    margin:0;
+    padding:0;
+}
+.Header{
+    background-color: rgb(44, 201, 44);
+    height: 200px;
+    width: 1350px;
+}
+h1{
+    padding-top: 40px;
+    color: white;
+    text-align: center;
+    font-size: 3em;
+}
+.Top-Image, img{
+    width: 1000px;
+    height:400px;
+    
+}
+.content{
+    font-size:2em;
+    text-align: center;
+    justify-items: center;
+    padding-top:40px;
+    color: white;
+    
+}
+.container{
+    border-width: 10px;
+    border-style: solid;
+    
+    height:250px;
+    border-color: green;
+    background : rgb(219, 219, 50);
+    width: 1330px;
+   
+}
+.background , span{
+    font-size: 2em;
+    text-align: center;
+    
+}
+.background{
+    background-color: yellowgreen;
+    padding:20px;
+    width: 1310px;
+}
+span{
+    color: white;
+}
+.Background-List{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width:1390px;
+
+}
+.Background-Container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap:5px;
+}
+.img{
+    width:400px;
+    height:400px;
+    border-style: solid;
+    padding:10px;
+}
+.closemark{
+    border-style: solid;
+    width: 1335px;
+    
+}
+.closemark > content{
+    font-size: 2em;
+}
+.download{
+  padding-top: 30px;
+ font-size:25px;
+   
+   
+}
+.dload{
+  
+    
+    float: left;
+    heigth:200px;
+    width: 200px;
+}
+.btnDownload{
+    padding:10px;
+    font-size: 20px;
+    width:227px;
+}
+.link{
+    font-size: 25px;
+    text-align: center;
+    justify-items: center;
+}
+.logo{
+    width:400px;
+    float: left;
+    padding-left: 80px;
+}
+.videos{
+    padding-left: 100px;
+    width:700px;
+    height:300px;
+    
+    display: flex;
+   
+   
+}.Video-Play{
+   
+}
+.logos{
+   display: list-item;
+
+ 
+   
+    
+}
+.Top-Image{
+    border-style: solid;
+   width:1340px;
+}
+.dl{
+    padding-top:40px;
+    
+}
+
+.closemark{
+
+background-color: rgb(44, 201, 44);
+height:100px;
+
+}
+
